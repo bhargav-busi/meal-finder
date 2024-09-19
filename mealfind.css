@@ -36,7 +36,11 @@ i {
 #sea {
     cursor: pointer;
     color: white;
-    margin-left: 10px;
+    margin-left: 5px;
+    border: 3px solid;
+    background-color: rgb(230, 150, 30);
+    padding: 10px;
+    border-radius: 20px;
 }
 
 /* Hamburger Menu */
